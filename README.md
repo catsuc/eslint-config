@@ -1,4 +1,4 @@
-# Rocketseat ESLint config
+# Catsuc ESLint config
 
 ## Whats included?
 
